@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(240, 194, 110);
+}
+h3, h1, p, h2{
+    text-align: center;
+    
+}
+p{
+    font-style: italic;
+}
